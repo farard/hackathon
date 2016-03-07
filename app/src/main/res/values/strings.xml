@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Glass</string>
-    <string name="title_activity_main">Hello World Immersion</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_main">Hello Glass</string>
+    <string name="hello_world">FARA Hackathon!</string>
 </resources>
